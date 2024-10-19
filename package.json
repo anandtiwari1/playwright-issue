@@ -1,0 +1,16 @@
+{
+  "name": "playwright-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.7.7"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.46.1"
+  }
+}
